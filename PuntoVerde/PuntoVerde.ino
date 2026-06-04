@@ -345,6 +345,8 @@ bool doTxdata()
 
   // Modalità Station
   WiFi.mode(WIFI_STA);
+
+  esp_wifi_set_protocol(WIFI_IF_STA, WIFI_PROTOCOL_11B);
  
   // potenza trasmissione alta (84 = 20db)
   esp_wifi_set_max_tx_power(84);
@@ -478,7 +480,7 @@ void setup()
 #endif
 
   // ingresso basso pulsante non premuto
-  pinMode(PIN_PULS_MANUTENZIONE, INPUT_PULLDOWN);  // when the pin does not have external pull-up resistor
+  pinMode(PIN_PULS_MANUTENZIONE, INPUT_PULLDOWN); 
 
   // analizza ed esegue il risveglio                  
   do_wakeup_reason();

@@ -1,9 +1,9 @@
 {
   "navigation": {
-    "selectedUserPageObject": "[Monitor.eez-project]:/userPages/1",
+    "selectedUserPageObject": "[Monitor.eez-project]:/userPages/0",
     "selectedActionObject": "[Monitor.eez-project]:/actions/0",
     "selectedGlobalVariableObject": "[Monitor.eez-project]:/variables/globalVariables/0",
-    "selectedBitmapObject": "[Monitor.eez-project]:/bitmaps/-1",
+    "selectedBitmapObject": "[Monitor.eez-project]:/bitmaps/0",
     "subnavigationSelectedItems": {
       "variables-tab/sub-navigation/selected-item": "Global"
     }
@@ -75,7 +75,7 @@
           {
             "type": "border",
             "selected": 1,
-            "size": 110.09375,
+            "size": 58.15625,
             "location": "bottom",
             "children": [
               {
@@ -127,7 +127,7 @@
                 {
                   "type": "tabset",
                   "id": "#f796614b-f978-4d4c-88b9-bb1fe1026acd",
-                  "weight": 0.6186133559805962,
+                  "weight": 0.7313803665744807,
                   "enableClose": false,
                   "children": [
                     {
@@ -159,7 +159,7 @@
                 {
                   "type": "tabset",
                   "id": "#5d0304e4-2204-4ed3-ad72-f566b329c8aa",
-                  "weight": 1.3166320387607287,
+                  "weight": 1.2038650281668444,
                   "enableClose": false,
                   "children": [
                     {
@@ -193,8 +193,7 @@
             {
               "type": "tabset",
               "id": "EDITORS",
-              "weight": 36.14034592413783,
-              "selected": 1,
+              "weight": 65.61403785145083,
               "enableDeleteWhenEmpty": false,
               "enableClose": false,
               "children": [
@@ -213,10 +212,10 @@
                 {
                   "type": "tab",
                   "id": "#2c80b1a4-38ec-4a5e-bd93-4677b1c5e4c9",
-                  "name": "Page1",
+                  "name": "Main",
                   "component": "editor",
                   "config": {
-                    "objectPath": "[Monitor.eez-project]:/userPages/1",
+                    "objectPath": "[Monitor.eez-project]:/userPages/0",
                     "permanent": false
                   },
                   "icon": "svg:page"
@@ -227,7 +226,7 @@
             {
               "type": "row",
               "id": "#99e17a07-7975-45b4-9342-fa7015f954f1",
-              "weight": 40.35088536792782,
+              "weight": 10.877193440614844,
               "children": [
                 {
                   "type": "tabset",
@@ -1049,9 +1048,7 @@
     "[Monitor.eez-project]:/userPages/0[flow-state]": {
       "selection": {
         "0": {
-          "0": {
-            "$selected": true
-          },
+          "0": {},
           "1": {},
           "2": {},
           "8": {},
@@ -1076,6 +1073,9 @@
     "[Monitor.eez-project]:/userPages/1[flow-state]": {
       "selection": {
         "0": {
+          "0": {
+            "$selected": true
+          },
           "1": {},
           "2": {},
           "4": {},
@@ -1087,7 +1087,7 @@
       "transform": {
         "translate": {
           "x": -160,
-          "y": -136.66666666666669
+          "y": -120
         },
         "scale": 1
       },

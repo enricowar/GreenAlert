@@ -588,7 +588,7 @@
             {
               "objID": "df628832-b1bd-4416-b843-f8ca273ca8fc",
               "type": "LVGLLedWidget",
-              "left": 34,
+              "left": 52,
               "top": 49,
               "width": 13,
               "height": 13,
@@ -652,7 +652,7 @@
             {
               "objID": "a32a5cca-ed6d-490f-b126-b1e9adc05205",
               "type": "LVGLBarWidget",
-              "left": 35,
+              "left": 53,
               "top": 64,
               "width": 10,
               "height": 70,
@@ -713,8 +713,8 @@
             {
               "objID": "c4a9804f-0eb3-456c-9d91-ef1489ddd91c",
               "type": "LVGLBarWidget",
-              "left": 35,
-              "top": 153,
+              "left": 53,
+              "top": 146,
               "width": 10,
               "height": 70,
               "customInputs": [],
@@ -771,7 +771,7 @@
             {
               "objID": "8cc3078d-959c-4cf2-c389-5007615d1421",
               "type": "LVGLLedWidget",
-              "left": 60,
+              "left": 78,
               "top": 49,
               "width": 13,
               "height": 13,
@@ -835,8 +835,8 @@
             {
               "objID": "4d1cce14-0d03-4484-b0f5-52a8e024a78f",
               "type": "LVGLLabelWidget",
-              "left": 123,
-              "top": 132,
+              "left": 2,
+              "top": 87,
               "width": 48,
               "height": 15,
               "customInputs": [],
@@ -886,8 +886,8 @@
             {
               "objID": "0ef59ca1-0bc3-4ff5-db46-306808d32c06",
               "type": "LVGLLabelWidget",
-              "left": 124,
-              "top": 221,
+              "left": 1,
+              "top": 170,
               "width": 52,
               "height": 15,
               "customInputs": [],
@@ -936,7 +936,7 @@
             {
               "objID": "f00bc21f-0494-4a92-d286-6b1e4ab57997",
               "type": "LVGLBarWidget",
-              "left": 62,
+              "left": 80,
               "top": 65,
               "width": 10,
               "height": 70,
@@ -993,8 +993,8 @@
             {
               "objID": "9c8a7035-c8d2-4fb4-ab2d-a49f14dff5f6",
               "type": "LVGLBarWidget",
-              "left": 62,
-              "top": 153,
+              "left": 80,
+              "top": 146,
               "width": 10,
               "height": 70,
               "customInputs": [],
@@ -1051,7 +1051,7 @@
             {
               "objID": "e39b50fc-455f-40ec-8428-c75c90d34f24",
               "type": "LVGLLabelWidget",
-              "left": 38,
+              "left": 56,
               "top": 29,
               "width": 5,
               "height": 16,
@@ -1100,7 +1100,7 @@
             {
               "objID": "c11793ef-72ff-4200-9a01-c095e186a29d",
               "type": "LVGLLabelWidget",
-              "left": 63,
+              "left": 81,
               "top": 29,
               "width": 8,
               "height": 16,
@@ -1149,7 +1149,7 @@
             {
               "objID": "a7ff3c75-d641-416a-c1e9-ea5537ac84ee",
               "type": "LVGLLedWidget",
-              "left": 87,
+              "left": 105,
               "top": 49,
               "width": 13,
               "height": 13,
@@ -1213,7 +1213,7 @@
             {
               "objID": "ad81437c-d2b2-4797-f230-246e04a1aecb",
               "type": "LVGLBarWidget",
-              "left": 88,
+              "left": 106,
               "top": 65,
               "width": 10,
               "height": 70,
@@ -1269,8 +1269,8 @@
             {
               "objID": "89ffc76f-014a-49aa-b6f8-8d3806970438",
               "type": "LVGLBarWidget",
-              "left": 88,
-              "top": 153,
+              "left": 106,
+              "top": 146,
               "width": 10,
               "height": 70,
               "customInputs": [],
@@ -1327,7 +1327,7 @@
             {
               "objID": "64d4ddad-2531-4c4b-c101-c2e672bca66b",
               "type": "LVGLLabelWidget",
-              "left": 89,
+              "left": 107,
               "top": 29,
               "width": 8,
               "height": 16,
@@ -1376,7 +1376,7 @@
             {
               "objID": "282fcff0-b66c-4be2-f983-fea4e9516b72",
               "type": "LVGLLedWidget",
-              "left": 113,
+              "left": 131,
               "top": 49,
               "width": 13,
               "height": 13,
@@ -1440,7 +1440,7 @@
             {
               "objID": "e6a68585-cdda-454c-a092-f6d0f1ac8a67",
               "type": "LVGLBarWidget",
-              "left": 115,
+              "left": 133,
               "top": 65,
               "width": 10,
               "height": 70,
@@ -1496,8 +1496,8 @@
             {
               "objID": "30bb2aa8-10d8-4420-908a-7ef2d1f65b46",
               "type": "LVGLBarWidget",
-              "left": 115,
-              "top": 153,
+              "left": 133,
+              "top": 146,
               "width": 10,
               "height": 70,
               "customInputs": [],
@@ -1554,7 +1554,7 @@
             {
               "objID": "bc004d98-02d5-4b18-ab52-8a895f989c43",
               "type": "LVGLLabelWidget",
-              "left": 115,
+              "left": 133,
               "top": 29,
               "width": 9,
               "height": 16,
@@ -1603,7 +1603,7 @@
             {
               "objID": "f60b0c56-b129-4909-8951-a82c24e88b34",
               "type": "LVGLLedWidget",
-              "left": 140,
+              "left": 158,
               "top": 49,
               "width": 13,
               "height": 13,
@@ -1667,7 +1667,7 @@
             {
               "objID": "c61262b8-144a-4f20-fe63-90e6b77483cc",
               "type": "LVGLBarWidget",
-              "left": 141,
+              "left": 159,
               "top": 65,
               "width": 10,
               "height": 70,
@@ -1723,8 +1723,8 @@
             {
               "objID": "75ecbd81-3a08-4f74-a16f-ac138357c8f6",
               "type": "LVGLBarWidget",
-              "left": 141,
-              "top": 153,
+              "left": 159,
+              "top": 146,
               "width": 10,
               "height": 70,
               "customInputs": [],
@@ -1781,7 +1781,7 @@
             {
               "objID": "34015c47-aa12-4767-bf1c-6ad7a3f475da",
               "type": "LVGLLabelWidget",
-              "left": 143,
+              "left": 161,
               "top": 29,
               "width": 8,
               "height": 16,
@@ -1830,7 +1830,7 @@
             {
               "objID": "6565cc34-f2b0-4dc0-c01d-98e315ab7226",
               "type": "LVGLLedWidget",
-              "left": 166,
+              "left": 184,
               "top": 49,
               "width": 13,
               "height": 13,
@@ -1894,7 +1894,7 @@
             {
               "objID": "79cda135-b192-4c2f-952b-e8988c5545e8",
               "type": "LVGLBarWidget",
-              "left": 168,
+              "left": 186,
               "top": 65,
               "width": 10,
               "height": 70,
@@ -1950,8 +1950,8 @@
             {
               "objID": "0d9ab5f5-4a5a-4c55-d37c-6fc43b2b3958",
               "type": "LVGLBarWidget",
-              "left": 168,
-              "top": 153,
+              "left": 186,
+              "top": 146,
               "width": 10,
               "height": 70,
               "customInputs": [],
@@ -2008,7 +2008,7 @@
             {
               "objID": "d97a75b8-ab2f-43fc-deff-14c95ed176f4",
               "type": "LVGLLabelWidget",
-              "left": 169,
+              "left": 187,
               "top": 29,
               "width": 9,
               "height": 16,
@@ -2057,7 +2057,7 @@
             {
               "objID": "e74762aa-b5c7-4dd9-c99a-6dd5a1850046",
               "type": "LVGLLedWidget",
-              "left": 193,
+              "left": 211,
               "top": 49,
               "width": 13,
               "height": 13,
@@ -2121,7 +2121,7 @@
             {
               "objID": "02045787-25ea-48b2-b93d-ad80833d0a91",
               "type": "LVGLBarWidget",
-              "left": 194,
+              "left": 212,
               "top": 65,
               "width": 10,
               "height": 70,
@@ -2177,8 +2177,8 @@
             {
               "objID": "c56d2ecd-f101-4cf9-8ec3-f7232e8461f3",
               "type": "LVGLBarWidget",
-              "left": 194,
-              "top": 153,
+              "left": 212,
+              "top": 146,
               "width": 10,
               "height": 70,
               "customInputs": [],
@@ -2235,7 +2235,7 @@
             {
               "objID": "f762e9a1-462f-41d7-e000-20d1c33d4bde",
               "type": "LVGLLabelWidget",
-              "left": 194,
+              "left": 212,
               "top": 29,
               "width": 8,
               "height": 16,
@@ -2284,7 +2284,7 @@
             {
               "objID": "c50a9bd2-f553-44b0-d2dd-fa9288cb020d",
               "type": "LVGLLedWidget",
-              "left": 219,
+              "left": 237,
               "top": 49,
               "width": 13,
               "height": 13,
@@ -2348,7 +2348,7 @@
             {
               "objID": "42ac500b-be31-4afd-e5d7-fd4e56ad8c36",
               "type": "LVGLBarWidget",
-              "left": 221,
+              "left": 239,
               "top": 65,
               "width": 10,
               "height": 70,
@@ -2404,8 +2404,8 @@
             {
               "objID": "d8852a41-5236-49ed-b0d9-96473a625128",
               "type": "LVGLBarWidget",
-              "left": 221,
-              "top": 153,
+              "left": 239,
+              "top": 146,
               "width": 10,
               "height": 70,
               "customInputs": [],
@@ -2462,7 +2462,7 @@
             {
               "objID": "8b05757f-11a2-496b-a37d-d6d62d29ddf7",
               "type": "LVGLLabelWidget",
-              "left": 220,
+              "left": 238,
               "top": 29,
               "width": 9,
               "height": 16,
@@ -2511,7 +2511,7 @@
             {
               "objID": "6be5181a-836b-4390-c7a3-e9af8f03a32a",
               "type": "LVGLLedWidget",
-              "left": 246,
+              "left": 264,
               "top": 49,
               "width": 13,
               "height": 13,
@@ -2575,7 +2575,7 @@
             {
               "objID": "6c503869-34b5-4823-d30c-d3396f847454",
               "type": "LVGLBarWidget",
-              "left": 247,
+              "left": 265,
               "top": 65,
               "width": 10,
               "height": 70,
@@ -2631,8 +2631,8 @@
             {
               "objID": "cb151292-b14c-44ed-b391-742669843939",
               "type": "LVGLBarWidget",
-              "left": 247,
-              "top": 153,
+              "left": 265,
+              "top": 146,
               "width": 10,
               "height": 70,
               "customInputs": [],
@@ -2689,7 +2689,7 @@
             {
               "objID": "e3d989cd-d443-44f3-f756-0734a4257f6a",
               "type": "LVGLLabelWidget",
-              "left": 248,
+              "left": 266,
               "top": 29,
               "width": 9,
               "height": 16,
@@ -2738,7 +2738,7 @@
             {
               "objID": "106e55f9-404a-4d42-e267-489b393f0806",
               "type": "LVGLLedWidget",
-              "left": 272,
+              "left": 290,
               "top": 49,
               "width": 13,
               "height": 13,
@@ -2802,7 +2802,7 @@
             {
               "objID": "e4d9a7c6-97bb-44e1-d078-a368c85d1b7b",
               "type": "LVGLBarWidget",
-              "left": 274,
+              "left": 292,
               "top": 64,
               "width": 10,
               "height": 70,
@@ -2861,8 +2861,8 @@
             {
               "objID": "fea2e026-2c7e-4f11-a74f-adf82b080869",
               "type": "LVGLBarWidget",
-              "left": 274,
-              "top": 153,
+              "left": 292,
+              "top": 146,
               "width": 10,
               "height": 70,
               "customInputs": [],
@@ -2919,7 +2919,7 @@
             {
               "objID": "99c8e585-9943-4b09-cc75-571d50750a0b",
               "type": "LVGLLabelWidget",
-              "left": 273,
+              "left": 291,
               "top": 29,
               "width": 14,
               "height": 16,
@@ -3739,7 +3739,8 @@
             "definition": {
               "MAIN": {
                 "DEFAULT": {
-                  "bg_color": "#ffffff"
+                  "bg_color": "#15171a",
+                  "bg_img_src": "sfondo"
                 }
               }
             }

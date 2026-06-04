@@ -236,6 +236,8 @@ void setupServer()
   WiFi.onEvent(WiFiEvent);
   WiFi.mode(WIFI_STA);
 
+  esp_wifi_set_protocol(WIFI_IF_STA, WIFI_PROTOCOL_11B);
+ 
   // potenza trasmissione alta (84 = 20db)
   esp_wifi_set_max_tx_power(84);
 
